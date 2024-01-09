@@ -1,4 +1,4 @@
-public class ValidPalindrom {
+public class ValidPalindrome {
     public static void main(String[] args) {
         String s = "A man, a plan, a canal: Panama";
         // String s = "race a car";
